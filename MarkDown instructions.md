@@ -28,6 +28,8 @@ To add an image in text, add: !, then text in [], then name of the image in ().
 ![Buongiorno!](Mona.jpg)
 ## Links
 
+To add a link in text, put link adress in []. For exemple, this is a link: [https://www.youtube.com/watch?v=fQymxI-fev4]
+
 ## Tables
 
 ## Citations
