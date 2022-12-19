@@ -32,6 +32,7 @@ To add an image in text, add: !, then text in [], then name of the image in ().
 
 ## Links
 
+We can use [] to add links. 
 ## Tables
 
 ## Citations
