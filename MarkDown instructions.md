@@ -1,5 +1,8 @@
 # Instruction for MD work
 
+## Headlines in MarkDown 
+For headline creation in MarkDown it is necessary to write several symbols *#* in the head line. Number of # shows the line level. The lower level is, the lager the text. 
+
 ## Text selection
 
 To make italics font, add * or underscore  (_) *around the text*. 
