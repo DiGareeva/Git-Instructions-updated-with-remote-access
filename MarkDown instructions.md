@@ -10,9 +10,9 @@ To make bold font, add ** or doubele underscor (__)   **around the text**.
 Alternative methods of text formatting are requred for combination of different font styles in one sentence. E.g: _text can be written in Italics font and in **Bold font** in the same time_.
 ## Lists
 
-To create unnumerated lists, use *, -, etc. in front of each line/clause. E.g:
+To create unnumerated lists, use * or +, etc. in front of each line/clause. E.g:
 * element 1
-* element 2
++ element 2
 
 To create numerated list, use numbers+dot in front of each line, e.g:
 1. Option 1
