@@ -21,11 +21,15 @@ To create numerated list, use numbers+dot in front of each line, e.g:
 1. Option 1
 2. Option 2
    Else we can use
+
+
 ## Images
 
 To add an image in text, add: !, then text in [], then name of the image in ().
 
 ![Buongiorno!](Mona.jpg)
+
+
 ## Links
 
 ## Tables
