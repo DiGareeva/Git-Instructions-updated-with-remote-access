@@ -12,6 +12,9 @@ Alternative methods of text formatting are requred for combination of different 
 
 ## Images
 
+To add an image in text, add: !, then text in [], then name of the image in ().
+
+![Buongiorno!](Mona.jpg)
 ## Links
 
 ## Tables
