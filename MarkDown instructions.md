@@ -5,9 +5,10 @@
 
 ## Repository preparation
 
-## Creation of savings
+## Creation of savings (commits)
+Use command **git commit -m "message for commit"**. Message for commit is *OBLIGATIVE!!!*  
 
-## How to move between savings
+## How to move between savings (commits)
 
 ## Git log
 
