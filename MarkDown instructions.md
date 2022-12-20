@@ -7,10 +7,13 @@
 
 ## Creation of savings (commits)
 Use command **git commit -m "message for commit"**. Message for commit is *OBLIGATIVE!!!*  
+## Git log
+
+Use command **git log** in terminal to check changes.
 
 ## How to move between savings (commits)
 
-## Git log
+
 
 ## Branches in Git
 
