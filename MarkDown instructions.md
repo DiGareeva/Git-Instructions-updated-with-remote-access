@@ -11,7 +11,7 @@ Use command **git commit -m "message for commit"**. Message for commit is *OBLIG
 
 Use command **git log** in terminal to check changes.
 
-## How to move between savings (commits)
+## Switching between savings (commits)
 
 
 
