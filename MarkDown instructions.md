@@ -6,7 +6,14 @@
 ## Repository preparation
 
 ## Creation of savings (commits)
-Use command **git commit -m "message for commit"**. Message for commit is *OBLIGATIVE!!!*  
+ 
+### Add file to commit
+ Use command **Git add <file_name>** in terminal
+ Use command **git commit -m "message for commit"**. Message for commit is *OBLIGATIVE!!!* 
+ 
+## How to move between savings (commits)
+
+
 ## Git log
 
 Use command **git log** in terminal to check changes.
