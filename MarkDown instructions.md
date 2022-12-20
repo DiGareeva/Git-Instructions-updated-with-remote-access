@@ -68,6 +68,12 @@ To add a link in text, name [link] and put link adress in (). For exemple, this 
 
 ## Tables
 
+For table creation we use - and | for lines and columns separarion. In 1st table line we build ah headline and separating this line from others with three or more ---. To separate columns we use | which is called *pipe*. 
+
+| **Option 1** | *Option 2* |
+| ------------ | ---------- |
+| Version 1    | Version 2  |
+
 ## Citations
 
 ## Conclusion 
