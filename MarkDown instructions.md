@@ -76,4 +76,25 @@ For table creation we use - and | for lines and columns separarion. In 1st table
 
 ## Citations
 
+To create a simple citation use [^1] and [^linkToMyArticle] for complex citation. You can insert the link you want to citate at any part of file exept other element of MarkDown like tables, lists and code blocks. When you will press the citation you will be removed to the appropriate link. To create such link use [^1] then ":" then your_link. If you want to use link with several abstracts or code blocks you should make use indentations in paragraphs.
+Thus we have first citation [^aaa] and second, complex citation [^MarkDownInstructions].  
+
 ## Conclusion 
+
+.....nothing to conclude by now....
+
+
+
+
+
+
+
+
+
+
+
+[^aaa]: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one 
+
+[^MarkDownInstruction]: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one. Here you can leave some extra insturctions. Or you can add a code block, e.g. `{mycode}` 
+
+
