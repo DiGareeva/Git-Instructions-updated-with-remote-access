@@ -1,5 +1,26 @@
 # Instruction for MD work
 
+## About Git
+**Git** is one of the most popular realization of distributed version control system. Most popular realization of **Git** is [GitHub](https://github.com/)
+
+## Repository preparation
+
+## Creation of savings (commits)
+Use command **git commit -m "message for commit"**. Message for commit is *OBLIGATIVE!!!*  
+## Git log
+
+Use command **git log** in terminal to check changes.
+
+## Switching between savings (commits)
+
+
+
+## Branches in Git
+
+## Branches merge and conflicts between them
+
+## Branches removing
+
 ## Headlines in MarkDown 
 For headline creation in MarkDown it is necessary to write several symbols *#* in the head line. Number of # shows the line level. The lower level is, the lager the text. 
 
