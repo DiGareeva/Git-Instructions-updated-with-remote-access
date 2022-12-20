@@ -1,6 +1,7 @@
 # Instruction for MD work
 
 ## About Git
+**Git** is one of the most popular realization of distributed version control system. Most popular realization of **Git** is [GitHub](https://github.com/)
 
 ## Repository preparation
 
