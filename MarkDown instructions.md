@@ -1,39 +1,36 @@
-# Instruction for MD work
+# Instruction for MarkDown language in Git
 
 ## About Git
 **Git** is one of the most popular realization of distributed version control system. Most popular realization of **Git** is [GitHub](https://github.com/)
 
 ## Repository preparation
 
-For repository creation do - went to empty folder (future repository) then add a command in terminal **git init**.
+For repository creation go to empty folder (future repository) then add a command in terminal **git init**.
 
 ## Creation of savings (commits)
-
+### Add file to commit
+ Use command **Git add <file_name>** in terminal
+ Then create commit - use command **git commit -m "message for commit"**. Message for commit is *OBLIGATIVE!!!* 
+ 
 ## Switching between savings (commits)
 
 Use command **git checkout** to switch for previous commits. You need to find in GitLog, described in previous section, the number of requared commit. Then use command in terminal: **git checkout <commit_number>**. After that you will receive **Detached head** status where there are no  changes can be saved.For return into original state use command **git checkout Master**. 
- 
- 
-### Add file to commit
- Use command **Git add <file_name>** in terminal
- Use command **git commit -m "message for commit"**. Message for commit is *OBLIGATIVE!!!* 
- 
-## How to move between savings (commits)
-
-
+  
 ## Git log
 
-Use command **git log** in terminal to check changes.
-
-## Switching between savings (commits)
-
-
+Use command **git log** in terminal to check for changes. Command **got log --graph** shows commits and branches tree.
 
 ## Branches in Git
 
+Use command **git branch <new_branch_name>** in order to create new branch. Command **git branch** shows all exicted branches where current branch is marked by * and has green color.
+
 ## Branches merge and conflicts between them
 
+Use command **git merge <branch_name>** to splt this branch with Master branch. If there will be a conflict of commits between these branches you can choose an option in special menu *<accept incomig/accept current change/accept both changes/compare changes>* or make remarks by youself incide the file. 
+
 ## Branches removing
+
+Use command **git branch -d (or D) <branch_name>** in order to delete the branch.
 
 ## Headlines in MarkDown 
 For headline creation in MarkDown it is necessary to write several symbols *#* in the head line. Number of # shows the line level. The lower level is, the lager the text. 
