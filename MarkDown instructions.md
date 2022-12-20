@@ -13,6 +13,14 @@ For repository creation do - went to empty folder (future repository) then add a
 
 Use command **git checkout** to switch for previous commits. You need to find in GitLog, described in previous section, the number of requared commit. Then use command in terminal: **git checkout <commit_number>**. After that you will receive **Detached head** status where there are no  changes can be saved.For return into original state use command **git checkout Master**. 
  
+ 
+### Add file to commit
+ Use command **Git add <file_name>** in terminal
+ Use command **git commit -m "message for commit"**. Message for commit is *OBLIGATIVE!!!* 
+ 
+## How to move between savings (commits)
+
+
 ## Git log
 
 Use command **git log** in terminal to check changes.
