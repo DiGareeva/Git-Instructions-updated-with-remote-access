@@ -5,6 +5,8 @@
 
 ## Repository preparation
 
+For repository creation do - went to empty folder (future repository) then add a command in terminal **git init**.
+
 ## Creation of savings
 
 ## How to move between savings
