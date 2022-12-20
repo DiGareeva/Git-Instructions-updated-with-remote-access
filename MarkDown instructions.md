@@ -7,10 +7,12 @@
 
 For repository creation do - went to empty folder (future repository) then add a command in terminal **git init**.
 
-## Creation of savings
+## Creation of savings (commits)
 
-## How to move between savings
+## Switching between savings (commits)
 
+Use command **git checkout** to switch for previous commits. You need to find in GitLog, described in previous section, the number of requared commit. Then use command in terminal: **git checkout <commit_number>**. After that you will receive **Detached head** status where there are no  changes can be saved.For return into original state use command **git checkout Master**. 
+ 
 ## Git log
 
 ## Branches in Git
