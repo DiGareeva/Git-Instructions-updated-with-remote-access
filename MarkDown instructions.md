@@ -5,9 +5,11 @@
 
 ## Repository preparation
 
-## Creation of savings
+## Creation of savings (commits)
+### Add file to commit
+ Use command **Git add <file_name>** in terminal
+## How to move between savings (commits)
 
-## How to move between savings
 
 ## Git log
 
