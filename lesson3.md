@@ -2,7 +2,7 @@
 
 To add a new repository from GitHub use command: **git clone _link_from_GitHub_from_button_CODE_**. 
 
-Command **cd folderNameFromGitHub_** switch you to the remote repository.
+Command **cd folderNameFromGitHub** switch you to the remote repository.
 
 Command **git remote add orogin _linkInGitHub_** connects new local repository with a remote one. After this command do **git branch -M main** in order to assign main brunch.
 
