@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 # About working in remote access to repositories (from GitHub)
 
 ## Remote access from GitHub repository
-=======
-# About GitHub
-
-## Remote acsess from GitHub repository
->>>>>>> db2ec9887c05b9ca68286853bf8b11bc1f021042
 
 To add a new repository from GitHub use command: **git clone _link_from_GitHub_from_button_CODE_**. 
 
