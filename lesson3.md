@@ -14,7 +14,7 @@ To download data from remote repository and merge it with local one use command 
 
 ## Pull request
 
-1. Make **fork** of repository of interest at GitHub
+1. Press **fork** of repository of interest at GitHub. Thus you will add the repository copy into your account. 
 2. Command _git clone_ of our version on this reporitory
 3.  Create a new branch where you will add new data
 4.  Do **git push** to send new data to your GitHub account
